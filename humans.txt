@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    PartTimeLegend -- 🍸 -- @parttimelegend
+    WilfredKnievel -- 🥃 -- @WilfredKnievel
+
+# THANKS
+
+    people
+
+# TECHNOLOGY COLOPHON
+
+    html5boilerplate,HTML5, CSS3
+    jQuery, Modernizr
